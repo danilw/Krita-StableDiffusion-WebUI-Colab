@@ -20,6 +20,6 @@ ___
 
 ### Screenshot: 
 
-(on screenshot working img2img on Google Colab with original(small) and result image)
+(on screenshot working img2img on Google Colab, two result images from different prompt, left and right side)
 
-![1](https://user-images.githubusercontent.com/24825887/197233915-462b6cd7-230b-4091-9164-2d02a5784561.png)
+![1](https://user-images.githubusercontent.com/24825887/197250176-63e99121-215e-44e8-9cc1-0017d57f2adb.png)
