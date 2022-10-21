@@ -1,2 +1,5 @@
 # Krita-StableDiffusion-WebUI-Colab
-Colab script for Krita Stable Diffusion plugin
+
+Download `Krita-StableDiffusionUI.ipynb` file
+
+And use it in Colab. Go to https://colab.research.google.com/ press Upload and Upload this file.
