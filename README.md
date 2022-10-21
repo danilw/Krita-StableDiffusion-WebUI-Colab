@@ -4,6 +4,12 @@ Download `Krita-StableDiffusionUI.ipynb` file
 
 And use it in Colab. Go to https://colab.research.google.com/ press Upload and Upload this file.
 
+___
+
+# Tokens and atleast one link is Requied!
+
+___
+
 Backend URL in Krita SD Plugin should look like this:
 
 ![2](https://user-images.githubusercontent.com/24825887/197233926-f6a269ec-e5ab-4743-ba14-9d020fabb66d.png)
