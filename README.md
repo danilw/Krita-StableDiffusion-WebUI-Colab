@@ -1,6 +1,6 @@
 # Krita-StableDiffusion-WebUI-Colab
 
-### Tested October 2022 - works
+# Update - if someone downloaded it (before this message) - **redownload**, this script had bug one token were not working, fixed!
 
 Download `Krita-StableDiffusionUI.ipynb` file
 
