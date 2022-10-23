@@ -1,6 +1,8 @@
 # Krita-StableDiffusion-WebUI-Colab
 
-# Update - if someone downloaded it (before this message) - **redownload**, this script had bug one token were not working, fixed!
+# Updated - this script had bug one token were not working, please redownload if script not working for you!
+
+### Contact: [**Join discord server**](https://discord.gg/JKyqWgt)
 
 Download `Krita-StableDiffusionUI.ipynb` file
 
