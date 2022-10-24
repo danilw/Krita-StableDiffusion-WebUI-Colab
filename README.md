@@ -1,6 +1,6 @@
 # Krita-StableDiffusion-WebUI-Colab
 
-# Updated - this script had bug one token were not working, please redownload if script not working for you!
+# Updated - please redownload if script not working for you!
 
 ### Contact: [**Join discord server**](https://discord.gg/JKyqWgt)
 
