@@ -1,6 +1,8 @@
 # Krita-StableDiffusion-WebUI-Colab
 
-# Updated - please redownload if script not working for you!
+# Currently (now today) NOT WORKING reason https://github.com/Interpause/auto-sd-krita/issues/55
+
+### Updated - please redownload if script not working for you!
 
 ### Contact: [**Join discord server**](https://discord.gg/JKyqWgt)
 
