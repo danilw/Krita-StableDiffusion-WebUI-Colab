@@ -22,6 +22,16 @@ ___
 
 ___
 
+# Encryption note:
+
+By default **everything** that goes FROM and TO Krita Plugin is **NOT encrypted**.
+
+### If you need/want Encryption - I made this small change to this plugin version https://github.com/Interpause/auto-sd-krita/issues/32#issuecomment-1301615542 (follow instruction there)
+
+Using this(above) make prompts and images encrypted, on Collab you just need to replace one file and create text file with *your_encryption_key* as text, mentioned in instruction.
+
+___
+
 ### Screenshot: 
 
 (on screenshot working img2img on Google Colab, two result images from different prompt, left and right side)
