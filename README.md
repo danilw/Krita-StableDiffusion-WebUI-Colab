@@ -1,9 +1,14 @@
 # Krita-StableDiffusion-WebUI-Colab
 
+**What is it** - this is Colab script for https://github.com/Interpause/auto-sd-krita. Instruction to use - in `Krita-StableDiffusionUI.ipynb` file.
+
+if you need just WebUI - use Stable Diffusion WebUI Colab. My [WebUI Colab script](https://github.com/danilw/WebUI-Colab-AUTOMATIC1111-stable-diffusion-webui), using AUTOMATIC1111 repo.
+
+___
 # Currently (now today) NOT WORKING reason https://github.com/Interpause/auto-sd-krita/issues/55
 
 ### Updated - please redownload if script not working for you!
-
+___
 ### Contact: [**Join discord server**](https://discord.gg/JKyqWgt)
 
 ___
