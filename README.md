@@ -1,6 +1,6 @@
 # Krita-StableDiffusion-WebUI-Colab
 
-**What is it** - this is Colab script for https://github.com/Interpause/auto-sd-krita (currently used https://github.com/danilw/auto-sd-krita )
+**What is it** - this is Colab script for https://github.com/Interpause/auto-sd-krita
 
 ### Instruction to use - Go to https://colab.research.google.com/ press Upload and Upload this file `Krita-StableDiffusionUI.ipynb`, then open it in Colab and follow instruction there.
 
@@ -25,9 +25,9 @@ ___
 
 By default **everything** that goes FROM and TO Krita Plugin is **NOT encrypted**.
 
-### If you need/want Encryption - I made this small change to this plugin version https://github.com/Interpause/auto-sd-krita/issues/32#issuecomment-1301615542 (follow instruction there)
+### If you need/want Encryption - follow instruction in `Krita-StableDiffusionUI.ipynb` file, look Encryption note there.
 
-Using this(above) make prompts and images encrypted, on Collab you just need to replace one file and create text file with *your_encryption_key* as text, mentioned in instruction.
+(remember to update your local Krita Plugin to version from current auto-sd-krita)
 
 ___
 
