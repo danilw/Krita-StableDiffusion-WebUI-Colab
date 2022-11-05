@@ -7,7 +7,7 @@
 **if you need just WebUI** - use Stable Diffusion WebUI Colab. My [WebUI Colab script](https://github.com/danilw/WebUI-Colab-AUTOMATIC1111-stable-diffusion-webui), using AUTOMATIC1111 repo. (this works, and not depends on Krita modification)
 
 ___
-## Tested today (nov 5) - works.
+# Tested today (nov 5) - works.
 
 ### Updated - please redownload if script not working for you!
 ___
