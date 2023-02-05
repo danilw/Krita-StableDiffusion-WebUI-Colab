@@ -2,14 +2,20 @@
 
 **What is it** - this is Colab script for https://github.com/Interpause/auto-sd-krita
 
-### Instruction to use - Go to https://colab.research.google.com/ press Upload and Upload this file `Krita-StableDiffusionUI.ipynb`, then open it in Colab and follow instruction there.
+### Tested 5 Feb 2023 - still work
 
-**if you need just WebUI** - use Stable Diffusion WebUI Colab. My [WebUI Colab script](https://github.com/danilw/WebUI-Colab-AUTOMATIC1111-stable-diffusion-webui), using AUTOMATIC1111 repo. (this works, and not depends on Krita modification)
+# Important note:
+
+- **This is _Colab Old Krita plugin_** and I do not have Colab setup for *new plugin* [new auto-sd-paint-ext](https://github.com/Interpause/auto-sd-paint-ext), go check new plugin page maybe there easy way to setup Colab.
+
+- I recomend to **use** - **only default WebUI**, not this Krita plugin. **My** [**WebUI Colab script**](https://github.com/danilw/WebUI-Colab-AUTOMATIC1111-stable-diffusion-webui) - use this, Krita not needed, WebUI works from web-page.\
+This Krita Colab and plugin may have some bugs and missed features that works on WebUI, and WebUI have more functional.\
+*I keep this repository only because it still works, so maybe someone actually need it*.
 
 ___
-# Tested today (nov 5) - works.
 
-### Updated - please redownload if script not working for you!
+### Instruction to use - Go to https://colab.research.google.com/ press Upload and Upload this file `Krita-StableDiffusionUI.ipynb`, then open it in Colab and follow instruction there.
+
 ___
 ### Contact: [**Join discord server**](https://discord.gg/JKyqWgt)
 
@@ -26,8 +32,6 @@ ___
 By default **everything** that goes FROM and TO Krita Plugin is **NOT encrypted**.
 
 ### If you need/want Encryption - follow instruction in `Krita-StableDiffusionUI.ipynb` file, look Encryption note there.
-
-(remember to update your local Krita Plugin to version from current auto-sd-krita)
 
 ___
 
