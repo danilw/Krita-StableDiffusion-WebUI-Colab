@@ -16,6 +16,10 @@ ___
 
 ### Instruction to use - Go to https://colab.research.google.com/ press Upload and Upload this file `Krita-StableDiffusionUI.ipynb`, then open it in Colab and follow instruction there.
 
+and look on tutorials on old plugin page https://github.com/Interpause/auto-sd-krita
+
+### and **for inpainting in Krita** - you need select Selection mask before pressing inpaing button Selection mask layer [(example)](https://i.imgur.com/cbkpH63.png)
+
 ___
 ### Contact: [**Join discord server**](https://discord.gg/JKyqWgt)
 
