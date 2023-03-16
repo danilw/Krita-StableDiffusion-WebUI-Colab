@@ -18,7 +18,9 @@ ___
 
 and look on tutorials on old plugin page https://github.com/Interpause/auto-sd-krita
 
-### and **for inpainting in Krita** - you need select Selection mask before pressing inpaing button Selection mask layer [(example)](https://i.imgur.com/cbkpH63.png)
+### and for inpainting in Krita:
+
+you need **select _Selection mask layer_ before pressing inpaing button** [(example)](https://i.imgur.com/cbkpH63.png)
 
 ___
 ### Contact: [**Join discord server**](https://discord.gg/JKyqWgt)
