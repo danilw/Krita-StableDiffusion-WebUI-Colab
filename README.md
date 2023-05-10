@@ -1,8 +1,25 @@
+# DOES NOT WORK ANYMORE
+
+reason - [**Colab PM message**](https://www.reddit.com/r/StableDiffusion/comments/12t8tc7/comment/jh2rwe1/?utm_source=share&utm_medium=web2x&context=3)
+
+> Colab PM here.
+
+> Sorry. We prioritize interactive notebook compute for free of charge tier users - the webui is just using Colab as a convenient free GPU. We try to be cool, but usage has really been increasing lately and it's very noticeable now in our costs. I am constrained with what we can do with our budget!
+
+> https://research.google.com/colaboratory/faq.html#limitations-and-restrictions
+
+> So we started warning on our free tier as a first step.
+
+___
+
+___
+
+
 # Krita-StableDiffusion-WebUI-Colab
 
 **What is it** - this is Colab script for https://github.com/Interpause/auto-sd-krita
 
-### Tested 5 Feb 2023 - still work
+### Tested 5 Feb 2023 - ~~still work~~ not anymore
 
 # Important note:
 
